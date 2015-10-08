@@ -1,0 +1,3 @@
+[submodule "FairShip"]
+	path = FairShip
+	url = https://github.com/ShipSoft/FairShip.git
