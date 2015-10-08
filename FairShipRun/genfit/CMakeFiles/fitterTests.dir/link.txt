@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -pedantic -Wno-long-long -Wshadow -Werror=overloaded-virtual  -Wall -pedantic -Wno-long-long -Wshadow -Werror=overloaded-virtual -O3    CMakeFiles/fitterTests.dir/test/fitterTests/main.cc.o  -o ../bin/fitterTests  -L/opt/ocean/FairSoftInst/lib/root -rdynamic -lShipRoot -lGeom -Wl,-rpath,/opt/ocean/FairSoftInst/lib/root 

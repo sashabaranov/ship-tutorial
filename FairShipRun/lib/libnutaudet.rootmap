@@ -1,0 +1,5 @@
+Library.MagneticSpectrometer:               nutaudet libBase.so libShipData.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.NutaudetContFact:                   nutaudet libBase.so libShipData.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipRpcPoint:                       nutaudet libBase.so libShipData.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.Target:                             nutaudet libBase.so libShipData.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.TargetPoint:                        nutaudet libBase.so libShipData.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so

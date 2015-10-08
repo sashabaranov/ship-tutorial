@@ -1,0 +1,4 @@
+Library.ShipBellField:                      Field libBase.so
+Library.ShipConstField:                     Field libBase.so
+Library.ShipFieldCreator:                   Field libBase.so
+Library.ShipFieldPar:                       Field libBase.so

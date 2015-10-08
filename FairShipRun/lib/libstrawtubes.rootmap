@@ -1,0 +1,3 @@
+Library.strawtubes:                         strawtubes libBase.so libShipData.so
+Library.strawtubesContFact:                 strawtubes libBase.so libShipData.so
+Library.strawtubesPoint:                    strawtubes libBase.so libShipData.so

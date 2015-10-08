@@ -1,0 +1,3 @@
+Library.veto:                               veto libBase.so libShipData.so
+Library.vetoContFact:                       veto libBase.so libShipData.so
+Library.vetoPoint:                          veto libBase.so libShipData.so

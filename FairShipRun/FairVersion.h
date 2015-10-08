@@ -1,0 +1,5 @@
+#ifndef FAIRROOT_VERSION
+#define FAIRROOT_VERSION v1-00-177-g807551b
+#define FAIRROOT_GIT_DATE "Thu Oct 8 11:39:03 2015 +0200"
+#endif
+

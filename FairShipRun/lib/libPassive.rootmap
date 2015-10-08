@@ -1,0 +1,9 @@
+Library.ShipCave:                           Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipChamber:                        Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipGeoCave:                        Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipGoliath:                        Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipMagnet:                         Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipMuonShield:                     Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipPassiveContFact:                Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipTAUMagneticSpectrometer:        Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so
+Library.ShipTargetStation:                  Passive libBase.so libGeoBase.so libParBase.so libGeom.so libCint.so libCore.so

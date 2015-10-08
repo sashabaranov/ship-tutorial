@@ -1,0 +1,3 @@
+Library.muon:                               muon libBase.so libShipData.so
+Library.muonContFact:                       muon libBase.so libShipData.so
+Library.muonPoint:                          muon libBase.so libShipData.so

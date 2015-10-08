@@ -1,0 +1,2 @@
+Library.ShipMCTrack:                        ShipData libBase.so libEG.so libPhysics.so libCint.so libCore.so
+Library.ShipStack:                          ShipData libBase.so libEG.so libPhysics.so libCint.so libCore.so
